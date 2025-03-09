@@ -141,7 +141,7 @@ const Formlogin = () => {
             className="text-blue-500 cursor-pointer"
             onClick={() => setIsLogin(!isLogin)}
           >
-            {isLogin ? "Sign up now" : "Login"}
+            {isLogin ? "Sign up" : "Login"}
           </span>
         </p>
       </BackgroundGradient>
