@@ -129,7 +129,7 @@ const Formlogin = () => {
           )}
           <button
             type="submit"
-            className="w-full bg-teal-600 text-white py-2 rounded-lg hover:bg-gradient-to-r hover:from-rose-300 hover:to-slate-600"
+            className="w-full bg-teal-600 text-white cursor-pointer py-2 rounded-lg hover:bg-gradient-to-r hover:from-rose-300 hover:to-slate-600"
           >
             {isLogin ? "Login" : "Sign Up"}
           </button>

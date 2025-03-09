@@ -62,8 +62,8 @@ body {
   border: 1px solid #ddd;
   border-radius: 5px;
   width: 100%;
-  background-color: white; /* Set background to white */
-  color: black; /* Set text color to black */
+  background-color: white;
+  color: black;
 }
 
 .form button {
